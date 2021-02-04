@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on designing security metrics, improving my GraphQL and Go programming
+- 🌱 I’m currently learning k8's security, istio
+- 💬 Ask me about AppSec, CloudSec, etc
+- 😄 Pronouns: He, Him, His
